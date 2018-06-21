@@ -13,4 +13,4 @@ INSERT INTO bears (name, age, gender, color, temperament, alive)
 INSERT INTO bears (name, age, gender, color, temperament, alive)
   VALUES ("wendy", 4, "M", "Dark", "Pissed_Off", true);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-  VALUES (null, 67, "M", "Red", "Pissed_Off", alse);
+  VALUES (null, 67, "M", "Red", "Pissed_Off", false);
